@@ -1,3 +1,4 @@
+/*如何以下面的格式输出words和lines的值： "There were 3020 words and 350 lines" ? 这里，3020和350代表两个变量的值。*/
 #include<stdio.h>
 #include <stdlib.h>
 #include<string.h>
