@@ -1,0 +1,7 @@
+Chapter2_lessons.exe 32rgf sdf
+3
+Your input argv[1] = 32rgf
+Your input argv[2] = sdf
+5atoi(32rgf) = 32
+atoi(sdf) =0
+You input a wrong format linesCount!
